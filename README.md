@@ -1,4 +1,7 @@
 # Restful_Webservice
+
+Diese Datei ist in `Markdown` geschrieben. Sie kann in einer geeigneten IDE oder sonstigen kompatiblen Editoren formatiert angesehen werden.
+
 ## Starten des Servers
 
 Der Server ist in der Sprache `C#` geschrieben.
